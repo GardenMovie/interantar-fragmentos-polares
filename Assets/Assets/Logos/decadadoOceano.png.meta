@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 0fa5eed3022b7fc49b4f15302d3ec9da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2665766932665251892
+    second: decadadoOceano_0
+  - first:
+      213: 8628060443071285537
+    second: decadadoOceano_1
+  - first:
+      213: -6598249011085142475
+    second: decadadoOceano_2
+  - first:
+      213: 7226110222933678374
+    second: decadadoOceano_3
+  - first:
+      213: 1227494920630350677
+    second: decadadoOceano_4
+  - first:
+      213: -983903955986106013
+    second: decadadoOceano_5
+  - first:
+      213: 7586802123547295405
+    second: decadadoOceano_6
+  - first:
+      213: -8262016250291100268
+    second: decadadoOceano_7
+  - first:
+      213: -8130257266129679316
+    second: decadadoOceano_8
+  - first:
+      213: 4123935187513250380
+    second: decadadoOceano_9
+  - first:
+      213: -7612388696380147984
+    second: decadadoOceano_10
+  - first:
+      213: -8192070145223323020
+    second: decadadoOceano_11
+  - first:
+      213: 6843728912553301708
+    second: decadadoOceano_12
+  - first:
+      213: -6444857578818160672
+    second: decadadoOceano_13
+  - first:
+      213: 7788275298736627070
+    second: decadadoOceano_14
+  - first:
+      213: 9101578697307954151
+    second: decadadoOceano_15
+  - first:
+      213: 8377697811069932030
+    second: decadadoOceano_16
+  - first:
+      213: -7078939305466039537
+    second: decadadoOceano_17
+  - first:
+      213: -4128754346571654282
+    second: decadadoOceano_18
+  - first:
+      213: -5389235528488338362
+    second: decadadoOceano_19
+  - first:
+      213: -6389401201232012931
+    second: decadadoOceano_20
+  - first:
+      213: -298607308285705160
+    second: decadadoOceano_21
+  - first:
+      213: -6213704429035280103
+    second: decadadoOceano_22
+  - first:
+      213: -3785222695665531321
+    second: decadadoOceano_23
+  - first:
+      213: 563840364508343364
+    second: decadadoOceano_24
+  - first:
+      213: 3691022565342332987
+    second: decadadoOceano_25
+  - first:
+      213: 8681825297212264424
+    second: decadadoOceano_26
+  - first:
+      213: 5861723247324427629
+    second: decadadoOceano_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decadadoOceano_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 101
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438be73c6e4bef420800000000000000
+      internalID: 2665766932665251892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 222
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1290dd172470db770800000000000000
+      internalID: 8628060443071285537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53692b2cb7f4e64a0800000000000000
+      internalID: -6598249011085142475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 57
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629d7c156fc484460800000000000000
+      internalID: 7226110222933678374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 33
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553b4c37020f80110800000000000000
+      internalID: 1227494920630350677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 57
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369b852a0987852f0800000000000000
+      internalID: -983903955986106013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 57
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3733b55cb94960800000000000000
+      internalID: 7586802123547295405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 57
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e4e09efb675d80800000000000000
+      internalID: -8262016250291100268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 57
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c4dc7a7168b2f80800000000000000
+      internalID: -8130257266129679316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 33
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42167814392b3930800000000000000
+      internalID: 4123935187513250380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6ff0410dc5b5690800000000000000
+      internalID: -7612388696380147984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 55
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47291ea3b9bef4e80800000000000000
+      internalID: -8192070145223323020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 57
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc65fc3bf2fc9fe50800000000000000
+      internalID: 6843728912553301708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 57
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e73f8aad244f86a0800000000000000
+      internalID: -6444857578818160672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 57
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d5522ce13851c60800000000000000
+      internalID: 7788275298736627070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 57
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb9d4c5a9d4f4e70800000000000000
+      internalID: 9101578697307954151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 33
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11460b5cf834470800000000000000
+      internalID: 8377697811069932030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03752f153e82cd90800000000000000
+      internalID: -7078939305466039537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 33
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b1fbffbc7b3b6c0800000000000000
+      internalID: -4128754346571654282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 10
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cb98917d69535b0800000000000000
+      internalID: -5389235528488338362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d799c11c5794457a0800000000000000
+      internalID: -6389401201232012931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 33
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348b463c322bdbf0800000000000000
+      internalID: -298607308285705160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 9
+        width: 111
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a4105ebc74c9a0800000000000000
+      internalID: -6213704429035280103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 31
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7460c156300387bc0800000000000000
+      internalID: -3785222695665531321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 33
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ceb8cf2d923d700800000000000000
+      internalID: 563840364508343364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 10
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b384e21a775293330800000000000000
+      internalID: 3691022565342332987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef465a0c1a0c7870800000000000000
+      internalID: 8681825297212264424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decadadoOceano_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 10
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65fb689c36095150800000000000000
+      internalID: 5861723247324427629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      decadadoOceano_0: 2665766932665251892
+      decadadoOceano_1: 8628060443071285537
+      decadadoOceano_10: -7612388696380147984
+      decadadoOceano_11: -8192070145223323020
+      decadadoOceano_12: 6843728912553301708
+      decadadoOceano_13: -6444857578818160672
+      decadadoOceano_14: 7788275298736627070
+      decadadoOceano_15: 9101578697307954151
+      decadadoOceano_16: 8377697811069932030
+      decadadoOceano_17: -7078939305466039537
+      decadadoOceano_18: -4128754346571654282
+      decadadoOceano_19: -5389235528488338362
+      decadadoOceano_2: -6598249011085142475
+      decadadoOceano_20: -6389401201232012931
+      decadadoOceano_21: -298607308285705160
+      decadadoOceano_22: -6213704429035280103
+      decadadoOceano_23: -3785222695665531321
+      decadadoOceano_24: 563840364508343364
+      decadadoOceano_25: 3691022565342332987
+      decadadoOceano_26: 8681825297212264424
+      decadadoOceano_27: 5861723247324427629
+      decadadoOceano_3: 7226110222933678374
+      decadadoOceano_4: 1227494920630350677
+      decadadoOceano_5: -983903955986106013
+      decadadoOceano_6: 7586802123547295405
+      decadadoOceano_7: -8262016250291100268
+      decadadoOceano_8: -8130257266129679316
+      decadadoOceano_9: 4123935187513250380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
