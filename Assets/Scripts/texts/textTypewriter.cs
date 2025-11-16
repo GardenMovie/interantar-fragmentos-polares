@@ -62,8 +62,9 @@ public class legendaAnimada : MonoBehaviour
 
     public void clickSkip()
     {
-        charIndex = phrases[currentPhraseIndex].Length;
+        // charIndex = phrases[currentPhraseIndex].Length;
         //currentPhraseIndex++;
+        SkipToNextPhrase();
     }
 
     public void OnBtnContinue()
@@ -98,9 +99,9 @@ public class legendaAnimada : MonoBehaviour
             } */
 
             yield return new WaitUntil(() => waitingForInput == false);
-            gameManager.Instance.incrementIndex();
-            currentPhraseIndex++;
-            waitingForInput = true;
+            // gameManager.Instance.incrementIndex();
+            // currentPhraseIndex++;
+            // waitingForInput = true;
         }
 
         // Transição para próxima cena se configurado
@@ -148,7 +149,7 @@ public class legendaAnimada : MonoBehaviour
 
     public void SkipToNextPhrase()
     {
-        if (!isTyping) return;
+        // if (!isTyping) return;
 
         gameManager.Instance.incrementIndex();
         StopAllCoroutines();
